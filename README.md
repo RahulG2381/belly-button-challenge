@@ -1,4 +1,4 @@
-## Module 14 Belly-button-challenge: Interactive dashboard using javascript
+## Belly-button-challenge: Interactive dashboard using javascript
 
 #### Please visit the website [website](https://rahulg2381.github.io/belly-button-challenge/).
 ---
